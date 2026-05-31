@@ -64,7 +64,7 @@ README.md
 
 ## 📷 Dashboard Preview
 
-![Dashboard](sales_dashboard.png)
+![Dashboard](Notebooks/sales_dashboard.png)
 
 ---
 
