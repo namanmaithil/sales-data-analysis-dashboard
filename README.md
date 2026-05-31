@@ -1,35 +1,88 @@
-# Sales Data Anatysis Dashboard
+# 📊 Sales Data Analysis Dashboard
 
 ## 📌 Project Overview
 
-This project analyzes sales data using Python and visualizes important business insights through an interactive dashboard.
+This project analyzes sales data using Python and provides meaningful business insights through data visualization and dashboarding techniques.
 
-## 🚀 Tools & Libraries Used:
+The objective of this project is to identify sales trends, profitable categories, loss-making products, and key business metrics that help in data-driven decision making.
 
-- Python
-- Pandas
-- Matplotlib
-- Seaborn
-- Jupyter Notebook
+---
 
-## 📊 Features
+## 🚀 Tools & Technologies Used
 
-- Monthly Sales Trend Analysis
-- Category-wise Sales Distribution
-- Top Selling Products
-- Correlation Heatmap
-- Loss-Making Products Analysis
-- KPI Cards (Sales, Profit, Orders)
+* Python
+* Pandas
+* NumPy
+* Matplotlib
+* Seaborn
+* Jupyter Notebook
 
-## 📈 Key Insights
+---
 
-- Technology category generated the highest profit.
-- Some products generated losses despite high sales.
-- Discounts negatively impacted profitability.
-- Monthly sales trends showed seasonal variation.
+## 📂 Project Structure
 
+```text
+Data/
+│── sales_data.csv
 
-![Dashboard](Notebooks/sales_dashboard.png)
+Notebooks/
+│── sales_analysis.ipynb
+│── sales_dashboard.png
 
-### 👨‍💻 Author 
-Naman Maithil
+README.md
+```
+
+---
+
+## 📊 Dashboard Features
+
+* Monthly Sales Trend Analysis
+* Category-wise Sales Distribution
+* Top Selling Products
+* Correlation Heatmap
+* Profit Analysis
+* Loss-Making Products Analysis
+* KPI Cards
+
+  * Total Sales
+  * Total Profit
+  * Total Orders
+
+---
+
+## 📈 Key Business Insights
+
+✔ Technology category generated the highest profit.
+
+✔ Some products generated losses despite high sales volume.
+
+✔ Higher discounts negatively impacted profitability.
+
+✔ Monthly sales trends revealed seasonal fluctuations.
+
+---
+
+## 📷 Dashboard Preview
+
+![Dashboard](sales_dashboard.png)
+
+---
+
+## 🎯 Skills Demonstrated
+
+* Data Cleaning
+* Exploratory Data Analysis (EDA)
+* Data Visualization
+* Business Insight Generation
+* Dashboard Design
+* Python Programming
+
+---
+
+## 👨‍💻 Author
+
+**Naman Maithil**
+
+Aspiring Data Analyst | Python | SQL | Power BI
+
+GitHub: https://github.com/namanmaithil
