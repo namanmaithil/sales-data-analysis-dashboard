@@ -29,7 +29,7 @@ This project analyzes sales data using Python and visualizes important business 
 - Monthly sales trends showed seasonal variation.
 
 
-![Dashboard](sales_dashboard.png)
+![Dashboard](Notebooks/sales_dashboard.png)
 
 ### 👨‍💻 Author 
 Naman Maithil
